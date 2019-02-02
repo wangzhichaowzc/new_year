@@ -1,3 +1,3 @@
 import time
 print time.time()
-print 'hello word'
+print 'hello word!'
